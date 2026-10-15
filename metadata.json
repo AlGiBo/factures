@@ -1,0 +1,6 @@
+{
+  "name": "FacturaSheet - Panell de Factures",
+  "description": "Tauler modern i visual per analitzar factures de Google Sheets amb gràfics de despesa mensual i filtres intel·ligents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
